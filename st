@@ -1,1 +1,1 @@
-window.ipcRenderer.send('eval','console.log("xyz");')
+window.ipcRenderer.send('eval','console.log("xyzz");')
