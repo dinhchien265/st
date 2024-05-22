@@ -1,1 +1,1 @@
-console.log('abab');
+window.ipcRenderer.send('eval','console.log("xyz");')
